@@ -1,0 +1,13 @@
+.container{
+    width: 100vw;
+    display: flex;
+    background-color: #ECC19C;
+}
+.course-container{
+    width: 80%;
+    background-color: #ECC19C;
+}
+.cart-container{
+    width: 20%;
+    border-left: 1px solid #2C8881;
+}
